@@ -1,4 +1,4 @@
-# collegesmartassit
+# SmartAssist
 
 A new Flutter project.
 
